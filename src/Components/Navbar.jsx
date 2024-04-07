@@ -83,7 +83,7 @@ function NavBar() {
               <a
                 href="https://api.whatsapp.com/send?phone=+963932444357"
                 target="_blank"
-                style={{ textDecoration: "none" }}
+                style={{ textDecoration: "none", color: "#fff" }}
               >
                 Let`s Connect
               </a>
